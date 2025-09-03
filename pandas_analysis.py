@@ -1,12 +1,3 @@
-"""
-Retail Store Data Analysis with Pandas
-Author: Your Name
-Date: YYYY-MM-DD
-
-This script performs exploratory data analysis (EDA) 
-on Malaysian retail sales data.
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
